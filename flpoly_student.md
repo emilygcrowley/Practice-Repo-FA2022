@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Emily Crowley
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Introduction to Data Science
 
-- Course 2
+- Operations Research
 
-- Course 3
+- Discrete Mathematics II
 
-- Course 4
+- Optimization Theory
+
+- Music Appreciation
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Music (I play the clarinet)
 
-- Thing 2
+- Sewing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Crocheting as shown in this website <https://en.wikipedia.org/wiki/Crochet>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/22
